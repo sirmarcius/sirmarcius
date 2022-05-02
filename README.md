@@ -1,6 +1,6 @@
 👋 Oi eu sou o Márcio Gusmão, analista de Sistemas em formação. Mas com uma base boa de desenvolvimento web. Onde já vem de longos dados estudando sozinho. Mas estou graduando pela Faculdade Uniasselvi. Sou oriundo da área de suporte técnico. Sempre na TI. Mas agora quero me especializar mais e mais em desenvolvimento. Uma busca diária pelo conhecimento. 
 
-🌍 Eu estou sediado em Recife * ✉️ Você pode entrar em contato comigo em <img src="https://img.icons8.com/color/344/telegram-app--v1.png" width="26" height="26" alt="Telegram"/> <a href="https://t.me/sirmarcius">SirMarcius</a>
+🌍 Eu estou sediado em Recife * ✉️ Você pode entrar em contato comigo em <img src="https://img.icons8.com/color/344/telegram-app--v1.png" width="20" height="20" alt="Telegram"/> <a href="https://t.me/sirmarcius">SirMarcius</a> <img src="https://img.icons8.com/color/344/telegram-app--v1.png" width="20" height="20" alt="Telegram"/>
 
 <a href="https://www.github.com/sirmarcius" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/sirmarcius?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.twitch.tv/sirmarcius" target="_blank" rel="noreferrer"><img src=" https://img.shields.io/twitch/status/sirmarcius?logo=twitchsx&style=for-the-badge&color=0891b2&labelColor=1c1917&label=TWITCH+STATUS" /></a>
 
