@@ -1,4 +1,4 @@
-👋 Oi eu sou o Márcio Gusmão ==== Sou analista de Sistemas em formação. Mas com uma base boa de desenvolvimento web. Onde já vem de longos dados estudando sozinho. Mas estou graduando pela Faculdade Uniasselvi. Sou oriundo da área de suporte técnico. Sempre na TI. Mas agora quero me especializar mais e mais em desenvolvimento. Uma busca diária pelo conhecimento. 
+👋 Oi eu sou o Márcio Gusmão, analista de Sistemas em formação. Mas com uma base boa de desenvolvimento web. Onde já vem de longos dados estudando sozinho. Mas estou graduando pela Faculdade Uniasselvi. Sou oriundo da área de suporte técnico. Sempre na TI. Mas agora quero me especializar mais e mais em desenvolvimento. Uma busca diária pelo conhecimento. 
 
 🌍 Eu estou sediado em Recife * ✉️ Você pode entrar em contato comigo em [marciogusmao@msn.com](mailto:marciogusmao@msn.com)
 
