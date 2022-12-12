@@ -13,7 +13,7 @@
 </p>
 
 <p align="left">
-  💌 Abaixo segue meus contatos e rede sociais: ⤵️
+  💌 Abaixo segue meus contatos e redes sociais: ⤵️
 </p>
 
 <p align="left">
@@ -26,13 +26,13 @@
   <a href="https://www.linkedin.com/in/marciogusmao" alt="Linkedin">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-   <a href="#" alt="Facebook">
+   <a href="https://www.facebook.com/sirmarciusx/" alt="Facebook">
   <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
   
   <a href="https://www.twitter.com/sirmarciusx" alt="Twitter">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
   
-  <a href="#" alt="Dev.to">
+  <a href="https://dev.to/sirmarcius" alt="Dev.to">
   <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"/></a> 
 
   </p>  
