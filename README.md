@@ -34,7 +34,7 @@
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=LINK-DO-SEU-INSTAGRAM"/></a>
   
   <a href="#" alt="Twitter">
-    <img src="https://img.shields.io/twitter/url?style=social&url=twitter..com%2Fsirmarciusx"/></a>
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
 </p>  
 
 ## 🚀 Minhas Skills
