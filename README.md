@@ -1,15 +1,15 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
-  Olá sou o Márcio Gusmão, analista de suporte em transição para desenvolvimento. Atualmente estudo ADS na Uniasselvi. Já tenho uma báse boa de programação em Javascript e Nodejs e as linguagens de marcação HTML e estilo CSS. Procuro me inserir no mercado o mais breve possível. Determinação e constante busca pelo aprendizado, são minhas principais soft-skills.
+  Olá sou o Márcio Gusmão, analista de suporte em transição para desenvolvimento. Atualmente estudo ADS na Uniasselvi. Já tenho uma báse boa de programação em Javascript e as linguagens de marcação HTML e estilo CSS. Procuro me inserir no mercado o mais breve possível. Determinação e constante busca pelo aprendizado, são minhas principais soft-skills.
 </p>
 
 <p align="left">
-  🦄 Linguagens: <strong> Javascript, Nodejs</strong>
+  🦄 Linguagens: <strong> Javascript </strong>
 </p>
 
 <p align="left">
-  💼 Ferramentas: <strong>Coloque as suas ferramentas de trabalho.</strong>
+  💼 Ferramentas: <strong></strong>
 </p>
 
 <p align="left">
