@@ -20,14 +20,14 @@
 <p align="left">
   <a href="mailto:marciogus@gmail.com" alt="Gmail">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-
-  <a href="https://www.linkedin.com/in/marciogusmao" alt="Linkedin">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/marciogusmao" /></a>
-
+  
   <a href="https://t.me/sirmarcius" alt="Telegram">
   <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
 
-  <a href="#" alt="Facebook">
+  <a href="https://www.linkedin.com/in/marciogusmao" alt="Linkedin">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+
+   <a href="#" alt="Facebook">
   <img src="https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=LINK-DO-SEU-FACEBOOK"/></a>
 
   <a href="#" alt="Instagram">
