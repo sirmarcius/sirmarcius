@@ -57,3 +57,5 @@
 ## ⭐ Informações sobre minha conta GitHub
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sirmarcius&show_icons=true)
 
+ ![Snake animation](https://github.com/sirmarcius/sirmarcius/blob/output/github-contribution-grid-snake.svg)
+
