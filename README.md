@@ -5,7 +5,7 @@
 </p>
 
 <p align="left">
-  Meus contatos e redes sociais: ⤵️
+  <strong>Meus contatos e redes sociais: ⤵️</strong>
 </p>
 
 <p align="left">
