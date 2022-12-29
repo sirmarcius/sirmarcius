@@ -4,12 +4,8 @@
   Olá sou o <strong>Márcio Gusmão</strong>, analista de suporte em transição para desenvolvimento. Atualmente estudo ADS na Uniasselvi. Já tenho uma báse boa de programação em Javascript e as linguagens de marcação HTML e estilo CSS. Procuro me inserir no mercado o mais breve possível. Determinação e constante busca pelo aprendizado, são minhas principais soft-skills.
 </p>
 
-<p></p>
-<p></p>
-<p></p>
-
 <p align="left">
-  💌 Abaixo segue meus contatos e redes sociais: ⤵️
+  💌 Meus contatos e redes sociais: ⤵️
 </p>
 
 <p align="left">
