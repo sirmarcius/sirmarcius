@@ -5,14 +5,6 @@
 </p>
 
 <p align="left">
-  🦄 Linguagens: <strong> Javascript </strong>
-</p>
-
-<p align="left">
-  💼 Ferramentas: <strong></strong>
-</p>
-
-<p align="left">
   💌 Abaixo segue meus contatos e redes sociais: ⤵️
 </p>
 
