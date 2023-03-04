@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
-  Olá sou o <strong>Márcio Gusmão</strong>, analista de suporte em transição para desenvolvimento. Atualmente estudo ADS na Uniasselvi. Já tenho uma báse boa de programação em Javascript e as linguagens de marcação HTML e estilo CSS. No momento estou me dedicando a programação back-end. Com Java. Mas tambem enho foco no mercado mobile com Kotlin. De tudo um pouco quero melhorar minhas hard-skills.
+  Olá sou o <strong>Márcio Gusmão</strong>, analista de suporte em transição para desenvolvimento. Atualmente estudo ADS na Uniasselvi. Já tenho uma báse boa de programação em Javascript e as linguagens de marcação HTML e estilo CSS. No momento estou me dedicando a programação back-end. Com Java. Mas tambem tenho foco no mercado mobile com Kotlin. De tudo um pouco quero melhorar minhas hard-skills.
 </p>
 
 <p align="left">
