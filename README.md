@@ -25,7 +25,7 @@
 
 ## 🚀 Minhas Skills
 
-<code><img height="32" src="https://pics.freeicons.io/uploads/icons/png/378554371540553613-512.png" alt="Javas"/></code>
+<code><img height="32" src="https://pics.freeicons.io/uploads/icons/png/15347564851553750215-512.png" alt="Javas"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="Nodejs"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5"/></code>
